@@ -166,7 +166,7 @@ class COCO_Dataset(Dataset):
         labels = torch.LongTensor(det_anno[:, 4])
 
         # --------------------------- for transform ---------------------------
-        if random.random() > 0.5:
+        if random.random() > 0.0:
             image, boxes, labels = self.mosaic_transform(image, boxes, labels)
 
         if self.transform is not None:
