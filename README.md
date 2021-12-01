@@ -25,4 +25,4 @@
 
 - mosaic
 
-![](./figure/Mosaic.jpg)
+![](./figure/mosaic.jpg)
