@@ -13,4 +13,4 @@
 - [x] Zoom Out 
 - [x] Photometric Distort
 - [x] Horizontal Flip
-- [ ] Mosiac
+- [x] Mosiac
