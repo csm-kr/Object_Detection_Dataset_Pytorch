@@ -4,7 +4,6 @@
 
 - [x] VOC
 - [x] COCO
-- [ ] IMAGENET
 
 ### data augmentation 
 
